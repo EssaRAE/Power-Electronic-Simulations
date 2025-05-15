@@ -38,7 +38,7 @@ The following circuits are included in this repository:
 
 ## 🛠 Requirements
 
-* MATLAB R2020a or later (recommended)
+* MATLAB R2023a or later (recommended)
 * Simulink
 * Simscape
 * Simscape Electrical (formerly SimPowerSystems)
@@ -48,8 +48,8 @@ The following circuits are included in this repository:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/power-electronics-simscape.git
-   cd power-electronics-simscape
+   git clone https://github.com/EssaRAE/Power-Electronic-Simulations.git
+   cd Power-Electronic-Simulations
    ```
 
 2. Open MATLAB and navigate to the project directory.
@@ -57,7 +57,7 @@ The following circuits are included in this repository:
 3. Open the Simulink model of the circuit you want to simulate:
 
    ```matlab
-   open('single_diode_bridge_rectifier.slx')
+   open('filename.slx')
    ```
 
 4. Run the simulation and analyze the waveforms using scopes.
@@ -70,8 +70,7 @@ The following circuits are included in this repository:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License
 ## 👌 Acknowledgements
 
 * MATLAB Simulink Documentation
